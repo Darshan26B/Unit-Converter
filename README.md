@@ -39,7 +39,7 @@ The **Unit Converter App** is a 🔥 simple and intuitive mobile application tha
 |-----------------------------------|---------------------------------|----------------------------------|
 | ![Distance_Details](https://github.com/Darshan26B/Unit-Converter/blob/071ed871d1739582b3dbee6e7d50d3916b28b5c9/Distance_Details.png) 
 
-| ✅ List Show   |  ✅ Conversion Result
+| ✅ List Show    
 |-----------------------------------|---------------------------------|----------------------------------|
 |![List Show](https://github.com/Darshan26B/Unit-Converter/blob/071ed871d1739582b3dbee6e7d50d3916b28b5c9/Speed_Unit.png).
 
