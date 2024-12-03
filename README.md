@@ -31,7 +31,7 @@ The **Unit Converter App** is a 🔥 simple and intuitive mobile application tha
 |-----------------------------------|---------------------------------|----------------------------------|
 | ![Home Screen](https://github.com/Darshan26B/Unit-Converter/blob/071ed871d1739582b3dbee6e7d50d3916b28b5c9/Home.png) 
 
- 🔄Navigation Drawer               
+| 🔄Navigation Drawer               
 |-----------------------------------|---------------------------------|----------------------------------|
 | ![Navigation Drawer]( https://github.com/Darshan26B/Unit-Converter/blob/071ed871d1739582b3dbee6e7d50d3916b28b5c9/navigation.png)
 
@@ -43,9 +43,9 @@ The **Unit Converter App** is a 🔥 simple and intuitive mobile application tha
 |-----------------------------------|---------------------------------|----------------------------------|
 |![List Show](https://github.com/Darshan26B/Unit-Converter/blob/071ed871d1739582b3dbee6e7d50d3916b28b5c9/Speed_Unit.png).
 
-|  ✅ Conversion Result
+| ✅ Conversion Result
 |-----------------------------------|---------------------------------|----------------------------------|
-| ![image alt](https://github.com/Darshan26B/Unit-Converter/blob/071ed871d1739582b3dbee6e7d50d3916b28b5c9/Result.png) 
+|![Result](https://github.com/Darshan26B/Unit-Converter/blob/071ed871d1739582b3dbee6e7d50d3916b28b5c9/Result.png) 
 
 ## 🚀 How to Use
 
