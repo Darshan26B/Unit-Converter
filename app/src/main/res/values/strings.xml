@@ -1,0 +1,114 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="Main_title">Unit Converter</string>
+    <string name="selectUnitType">Select Unit Type</string>
+    <string name="enterValue">Enter Value</string>
+    <string name="To">To:</string>
+    <string name="from">From:</string>
+    <string name="convert">Convert</string>
+    <string name="distance">Distance</string>
+    <string name="Volume">Volume</string>
+    <string name="Weight">Weight</string>
+    <string name="Temperature">Temperature</string>
+    <string name="Speed">Speed</string>
+    <string name="Energy">Energy</string>
+    <string name="Power">Power</string>
+    <string name="Time">Time</string>
+    <string name="Area">Area</string>
+    <string name="Storage">Storage</string>
+    <string name="Share">Share</string>
+    <string name="navigation_drawer_open">Open\n</string>
+    <string name="navigation_drawer_close">Close\n</string>
+
+    <string-array name="Distance">
+        <item>Kilometer</item>
+        <item>Centimeter</item>
+        <item>Meter</item>
+        <item>Millimeter</item>
+        <item>Micrometers</item>
+        <item>Foot</item>
+        <item>Inch</item>
+    </string-array>
+
+    <string-array name="Volume">
+        <item>Liter</item>
+        <item>Milliliter</item>
+        <item>Cubic meter</item>
+    </string-array>
+
+    <string-array name="Weight">
+        <item>Kilogram</item>
+        <item>Gram</item>
+        <item>Milligram</item>
+        <item>Microgram</item>
+        <item>Stone</item>
+        <item>Tonne</item>
+    </string-array>
+
+    <string-array name="Temperature">
+        <item>Degree Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+
+    <string-array name="Speed">
+        <item>Kilometer per hour</item>
+        <item>Meter per second</item>
+        <item>Foot per second</item>
+        <item>Mile per hour</item>
+        <item>knot</item>
+    </string-array>
+
+    <string-array name="Energy">
+        <item>Joule</item>
+        <item>Kilojoule</item>
+        <item>Gram calorie</item>
+        <item>Kilo calorie</item>
+        <item>Watt hour</item>
+        <item>Kilowatt hour</item>
+        <item>Electron volt</item>
+        <item>Foot-pound</item>
+    </string-array>
+
+    <string-array name="Time">
+        <item>Nanosecond</item>
+        <item>Microsecond</item>
+        <item>Millisecond</item>
+        <item>second</item>
+        <item>Hour</item>
+        <item>Minute</item>
+        <item>Day</item>
+        <item>Week</item>
+        <item>Month</item>
+        <item>Year</item>
+        <item>Decade</item>
+        <item>Century</item>
+    </string-array>
+
+    <string-array name="Area">
+        <item>Square Kilometer</item>
+        <item>Square Meter</item>
+        <item>Square Mile</item>
+        <item>Square Foot</item>
+        <item>Square Inch</item>
+        <item>Hectare</item>
+        <item>Acre</item>
+        <item>Square yard</item>
+    </string-array>
+
+    <string-array name="Storage">
+        <item>Byte</item>
+        <item>Kilobyte</item>
+        <item>Megabyte</item>
+        <item>Gigabyte</item>
+        <item>Terabyte</item>
+    </string-array>
+
+    <string-array name="Power">
+        <item>Watt</item>
+        <item>Kilowatt</item>
+        <item>Megawatt</item>
+        <item>Gigawatt</item>
+        <item>Terawatt</item>
+    </string-array>
+</resources>

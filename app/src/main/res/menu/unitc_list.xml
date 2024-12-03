@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/distance"
+        android:icon="@drawable/n_distance"
+        android:title="@string/distance" />
+    <item
+        android:id="@+id/volume"
+        android:icon="@drawable/n_volume"
+        android:title="@string/Volume" />
+    <item
+        android:id="@+id/weight"
+        android:icon="@drawable/n_weight"
+        android:title="@string/Weight" />
+    <item
+        android:id="@+id/temperature"
+        android:icon="@drawable/n_temperature"
+        android:title="@string/Temperature" />
+    <item
+        android:id="@+id/speed"
+        android:icon="@drawable/n_speed"
+        android:title="@string/Speed" />
+    <item
+        android:id="@+id/energy"
+        android:icon="@drawable/n_energy"
+        android:title="@string/Energy" />
+    <item
+        android:id="@+id/power"
+        android:icon="@drawable/n_power"
+        android:title="@string/Power" />
+    <item
+        android:id="@+id/time"
+        android:icon="@drawable/n_time"
+        android:title="@string/Time" />
+    <item
+        android:id="@+id/area"
+        android:icon="@drawable/n_area"
+        android:title="@string/Area" />
+    <item
+        android:id="@+id/storage"
+        android:icon="@drawable/n_storage"
+        android:title="@string/Storage" />
+
+</menu>
