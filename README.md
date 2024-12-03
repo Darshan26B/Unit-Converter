@@ -45,7 +45,7 @@ The **Unit Converter App** is a 🔥 simple and intuitive mobile application tha
 
 |  ✅ Conversion Result
 |-----------------------------------|---------------------------------|----------------------------------|
-| ![Conversion Result]([path/to/result.jpg](https://github.com/Darshan26B/Unit-Converter/blob/071ed871d1739582b3dbee6e7d50d3916b28b5c9/Result.png)) |
+| ![image alt](https://github.com/Darshan26B/Unit-Converter/blob/071ed871d1739582b3dbee6e7d50d3916b28b5c9/Result.png) 
 
 ## 🚀 How to Use
 
